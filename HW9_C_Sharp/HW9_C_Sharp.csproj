@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Array.cs" />
     <Compile Include="ICalc.cs" />
+    <Compile Include="IOutput2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
